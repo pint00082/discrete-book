@@ -7,14 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2026-07-19 01:55+0300\n"
-"PO-Revision-Date: 2026-07-19 01:55+0300\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-07-18 23:43+0000\n"
+"Last-Translator: Weblate Admin <weblate@example.com>\n"
+"Language-Team: Greek <http://localhost:8080/projects/discrete-mathematics-"
+"open-introduction-greek/discrete-book/el/>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2026.7.1\n"
 
 #. type: Content of: <pretext><book><title>
 #: source/dmoi.ptx:5
@@ -421,7 +423,7 @@ msgstr ""
 #: source/ch_intro.ptx:4 source/peer-instruction.ptx:10
 #, no-wrap
 msgid "Introduction and Preliminaries"
-msgstr ""
+msgstr "Εισαγωγή και Προκαταρκτικά"
 
 #. type: Content of: <chapter><introduction><p>
 #: source/ch_intro.ptx:7
@@ -436,18 +438,28 @@ msgid ""
 "      in your studies.\n"
 "    "
 msgstr ""
+"      Καλώς ήρθατε στα Διακριτά Μαθηματικά.\n"
+"      Αν αυτή είναι η πρώτη σας επαφή με το αντικείμενο,\n"
+"      πιθανότατα θα βρείτε τα διακριτά μαθηματικά αρκετά διαφορετικά από "
+"άλλα μαθηματικά μαθήματα.\n"
+"      Ίσως μάλιστα να μην ξέρετε καν τι είναι τα διακριτά μαθηματικά!\n"
+"      Ελπίζουμε αυτή η σύντομη εισαγωγή\n"
+"      να ρίξει λίγο φως στο τι αφορά το αντικείμενο και τι μπορείτε να "
+"περιμένετε καθώς προχωράτε\n"
+"      στις σπουδές σας.\n"
+"    "
 
 #. type: Content of: <section><title>
 #: source/sec_intro-intro.ptx:3
 #, no-wrap
 msgid "What is Discrete Mathematics?"
-msgstr ""
+msgstr "Τι Είναι τα Διακριτά Μαθηματικά;"
 
 #. type: Content of: <section><blockquote><p>
 #: source/sec_intro-intro.ptx:6
 #, no-wrap
 msgid "\t\t\tdis"
-msgstr ""
+msgstr "\t\t\tδια"
 
 #. type: Content of: <section><blockquote><p>
 #: source/sec_intro-intro.ptx:6
@@ -456,6 +468,8 @@ msgid ""
 "crete / dis'krët.\n"
 "\t\t"
 msgstr ""
+"κριτός /ðʝa.kriˈtos/\n"
+"\t\t"
 
 #. type: Content of: <section><blockquote><p>
 #: source/sec_intro-intro.ptx:10
@@ -464,6 +478,8 @@ msgid ""
 "\t\t\t<em>Adjective</em>: Individually separate and distinct.\n"
 "\t\t"
 msgstr ""
+"\t\t\t<em>Επίθετο</em>: Μεμονωμένα διαχωρισμένο και ξεχωριστό.\n"
+"\t\t"
 
 #. type: Content of: <section><blockquote><p>
 #: source/sec_intro-intro.ptx:14
@@ -472,6 +488,8 @@ msgid ""
 "\t\t\t<em>Synonyms</em>: separate - detached - distinct - abstract.\n"
 "\t\t"
 msgstr ""
+"\t\t\t<em>Συνώνυμα</em>: ξεχωριστό - αποσπασμένο - διακριτό - αφηρημένο.\n"
+"\t\t"
 
 #. type: Content of: <section><p>
 #: source/sec_intro-intro.ptx:19
@@ -484,6 +502,14 @@ msgid ""
 "\t\tIn part yes, but you also study functions and lines and triangles and parallelepipeds and vectors and\n"
 "\t\t"
 msgstr ""
+"\t\tΟ ορισμός των <em>διακριτών μαθηματικών</em>\n"
+"\t\tείναι δύσκολος επειδή ο ορισμός των <em>μαθηματικών</em> είναι "
+"δύσκολος.\n"
+"\t\tΤι είναι τα μαθηματικά;\n"
+"\t\tΗ μελέτη των αριθμών;\n"
+"\t\tΕν μέρει ναι, αλλά μελετάτε επίσης συναρτήσεις και ευθείες και τρίγωνα "
+"και παραλληλεπίπεδα και διανύσματα και\n"
+"\t\t"
 
 #. type: Content of: <section><p>
 #: source/sec_intro-intro.ptx:24
@@ -496,6 +522,13 @@ msgid ""
 "\t\tfunctions, lines, triangles,\n"
 "\t\t"
 msgstr ""
+".\n"
+"\t\tΉ ίσως θέλετε να πείτε ότι τα μαθηματικά είναι μια συλλογή εργαλείων που "
+"σας επιτρέπουν να λύνετε προβλήματα.\n"
+"\t\tΤι είδους προβλήματα;\n"
+"\t\tΛοιπόν, εκείνα που αφορούν αριθμούς,\n"
+"\t\tσυναρτήσεις, ευθείες, τρίγωνα,\n"
+"\t\t"
 
 #. type: Content of: <section><p>
 #: source/sec_intro-intro.ptx:29
@@ -508,6 +541,13 @@ msgid ""
 "\t\tthat is individually separate and distinct.\n"
 "\t"
 msgstr ""
+".\n"
+"\t\tΌποια κι αν είναι η αντίληψή σας για το τι είναι τα μαθηματικά,\n"
+"\t\tδοκιμάστε να εφαρμόσετε σε αυτήν την έννοια του <q>διακριτού</q>, όπως "
+"ορίστηκε παραπάνω.\n"
+"\t\tΚάποια μαθηματικά ασχολούνται θεμελιωδώς με <em>πράγματα</em>\n"
+"\t\tπου είναι μεμονωμένα διαχωρισμένα και ξεχωριστά.\n"
+"\t"
 
 #. type: Content of: <section><p>
 #: source/sec_intro-intro.ptx:37
@@ -525,12 +565,26 @@ msgid ""
 "\t\tthem that are also in the set.\n"
 "\t"
 msgstr ""
+"\t\tΣε ένα μάθημα άλγεβρας ή απειροστικού λογισμού,\n"
+"\t\tμπορεί να έχετε συναντήσει ένα συγκεκριμένο σύνολο αριθμών\n"
+"\t\t(ίσως αποτελούν το σύνολο τιμών μιας συνάρτησης).\n"
+"\t\tΘα αναπαριστούσατε αυτό το σύνολο ως διάστημα:\n"
+"\t\tτο <m>[0,\\infty)</m> είναι το σύνολο τιμών της <m>f(x) = x^2</m> αφού "
+"το σύνολο\n"
+"\t\tτων εξόδων της συνάρτησης είναι όλοι οι πραγματικοί αριθμοί από το 0 και "
+"πάνω.\n"
+"\t\tΑυτό το σύνολο αριθμών ΔΕΝ είναι διακριτό.\n"
+"\t\tΟι αριθμοί στο σύνολο δεν απέχουν καθόλου πολύ μεταξύ τους.\n"
+"\t\tΣτην πραγματικότητα, πάρτε δύο οποιουσδήποτε αριθμούς στο σύνολο και "
+"υπάρχουν άπειροι ακόμη ανάμεσα\n"
+"\t\tσε αυτούς που ανήκουν επίσης στο σύνολο.\n"
+"\t"
 
 #. type: Content of: <section><p><fn>
 #: source/sec_intro-intro.ptx:56
 #, no-wrap
 msgid "Even larger natural numbers for old ladies who live in shoes."
-msgstr ""
+msgstr "Ακόμη μεγαλύτεροι φυσικοί αριθμοί για γριούλες που ζουν σε παπούτσια."
 
 #. type: Content of: <section><p>
 #: source/sec_intro-intro.ptx:50
@@ -548,12 +602,31 @@ msgid ""
 "\t\tThe inputs to the function also form a discrete set because each input is an individual person.\n"
 "\t"
 msgstr ""
+"\t\tΤα διακριτά μαθηματικά θα μπορούσαν και πάλι να αναρωτηθούν για το "
+"σύνολο τιμών μιας συνάρτησης,\n"
+"\t\tαλλά το σύνολο δεν θα ήταν διάστημα.\n"
+"\t\tΣκεφτείτε τη συνάρτηση που δίνει τον αριθμό των παιδιών κάθε ατόμου που "
+"διαβάζει αυτό το κείμενο.\n"
+"\t\tΠοιο είναι το σύνολο τιμών;\n"
+"\t\tΥποθέτω\n"
+"\t\tότι είναι κάτι σαν <m>\\{0, 1, 2, 3, 4\\}</m>.\n"
+"\t\tΊσως να υπάρχει και το 5 ή το 6.<placeholder type=\"fn\" id=\"0\"/>\n"
+"\t\tΣίγουρα όμως κανείς από όσους διαβάζουν αυτό δεν έχει 1,32419 παιδιά.\n"
+"\t\tΑυτό το σύνολο εξόδων <em>είναι</em> διακριτό επειδή τα στοιχεία του "
+"είναι ξεχωριστά.\n"
+"\t\tΤα δεδομένα εισόδου της συνάρτησης σχηματίζουν επίσης ένα διακριτό "
+"σύνολο, αφού κάθε είσοδος είναι ένα μεμονωμένο άτομο.\n"
+"\t"
 
 #. type: Content of: <section><p><fn>
 #: source/sec_intro-intro.ptx:65
 #, no-wrap
 msgid "Many of the problems discussed in this book are admittedly contrived and clearly fictional, but hopefully you will see how these toy problems can be generalized to actually represent problems that people would care about in reality."
 msgstr ""
+"Πολλά από τα προβλήματα που συζητούνται σε αυτό το βιβλίο είναι "
+"ομολογουμένως τεχνητά και σαφώς φανταστικά, αλλά ελπίζουμε ότι θα δείτε πώς "
+"αυτά τα «παιχνιδιάρικα» προβλήματα μπορούν να γενικευτούν ώστε να "
+"αναπαριστούν πραγματικά προβλήματα που θα ενδιέφεραν τον κόσμο στην πράξη."
 
 #. type: Content of: <section><p>
 #: source/sec_intro-intro.ptx:63
@@ -564,6 +637,14 @@ msgid ""
 "\t\tHowever, the reason we want to study these structures is because they provide a way to model <q>real-world</q> problems.<placeholder type=\"fn\" id=\"0\"/>\n"
 "\t"
 msgstr ""
+"\t\tΥπάρχουν πολλά διακριτά μαθηματικά αντικείμενα πέρα από σύνολα αριθμών· "
+"κάποια από αυτά θα τα παρουσιάσουμε στην <xref po4a-id=0>.\n"
+"\t\tΗ μελέτη αυτών των διακριτών <term>δομών</term> είναι το κύριο "
+"αντικείμενο των διακριτών μαθηματικών και αυτού του βιβλίου.\n"
+"\t\tΩστόσο, ο λόγος που θέλουμε να μελετήσουμε αυτές τις δομές είναι ότι μας "
+"δίνουν έναν τρόπο να μοντελοποιήσουμε προβλήματα του <q>πραγματικού κόσμου</"
+"q>.<placeholder type=\"fn\" id=\"0\"/>\n"
+"\t"
 
 #. type: Content of: <section><p>
 #: source/sec_intro-intro.ptx:69
@@ -573,6 +654,10 @@ msgid ""
 "\t\tHere are a few simple examples:\n"
 "\t"
 msgstr ""
+"\t\tΓια να αποκτήσετε μια αίσθηση του αντικειμένου, ας εξετάσουμε τους "
+"τύπους προβλημάτων που λύνετε στα διακριτά μαθηματικά.\n"
+"\t\tΝα μερικά απλά παραδείγματα:\n"
+"\t"
 
 #. type: Content of: <section><investigation><p>
 #: source/sec_intro-intro.ptx:74
@@ -583,6 +668,12 @@ msgid ""
 "\t\tAnswer the questions in these as best you can to give yourself a feel for what is coming next.</em>\n"
 "\t"
 msgstr ""
+"\t\t<em>Σημείωση: Σε όλο το βιβλίο θα συναντάτε δραστηριότητες <em>"
+"Διερευνήστε!</em>\n"
+"\t\tσαν κι αυτή.\n"
+"\t\tΑπαντήστε στις ερωτήσεις όσο καλύτερα μπορείτε, ώστε να αποκτήσετε μια "
+"αίσθηση του τι ακολουθεί.</em>\n"
+"\t"
 
 #. type: Content of: <section><investigation><p><ol><li><p>
 #: source/sec_intro-intro.ptx:83
@@ -596,6 +687,15 @@ msgid ""
 "\t\t\t\t\texactly once, how many handshakes take place?\n"
 "\t\t\t\t"
 msgstr ""
+"\t\t\t\t\tΟ πιο δημοφιλής μαθηματικός στον κόσμο διοργανώνει ένα πάρτι για "
+"όλους τους φίλους του.\n"
+"\t\t\t\t\tΓια να ξεκινήσουν, αποφασίζουν ότι όλοι πρέπει να σφίξουν χέρια.\n"
+"\t\t\t\t\tΑν υποθέσουμε ότι όλα τα 10 άτομα στο πάρτι σφίγγουν το χέρι με "
+"κάθε άλλο άτομο\n"
+"\t\t\t\t\t(αλλά όχι με τον εαυτό τους,\n"
+"\t\t\t\t\tπροφανώς)\n"
+"\t\t\t\t\tακριβώς μία φορά, πόσες χειραψίες γίνονται συνολικά;\n"
+"\t\t\t\t"
 
 #. type: Content of: <section><investigation><p><ol><li><p>
 #: source/sec_intro-intro.ptx:94
@@ -609,6 +709,16 @@ msgid ""
 "\t\t\t\t\tHow many hot dogs were eaten in total?\n"
 "\t\t\t\t"
 msgstr ""
+"\t\t\t\t\tΣτην προθέρμανση του διαγωνισμού φαγητού λουκάνικων του Όσκαρ, ο "
+"Αλ έφαγε ένα λουκάνικο.\n"
+"\t\t\t\t\tΟ Μπομπ τον ξεπέρασε τρώγοντας τρία λουκάνικα.\n"
+"\t\t\t\t\tΓια να μη μείνει πίσω, ο Καρλ έφαγε πέντε.\n"
+"\t\t\t\t\tΑυτό συνεχίστηκε, με κάθε διαγωνιζόμενο να τρώει δύο λουκάνικα "
+"παραπάνω από τον προηγούμενο.\n"
+"\t\t\t\t\tΠόσα λουκάνικα έφαγε ο Ζήνωνας (ο 26ος και τελευταίος "
+"διαγωνιζόμενος);\n"
+"\t\t\t\t\tΠόσα λουκάνικα φαγώθηκαν συνολικά;\n"
+"\t\t\t\t"
 
 #. type: Content of: <section><investigation><p><ol><li><p>
 #: source/sec_intro-intro.ptx:105
@@ -619,6 +729,11 @@ msgid ""
 "\t\t\t\t\tOn each is carved a message (strangely in English):\n"
 "\t\t\t\t"
 msgstr ""
+"\t\t\t\t\tΜετά από εβδομάδες ανασκαφής, φτάνετε επιτέλους στον ταφικό "
+"θάλαμο.\n"
+"\t\t\t\t\tΤο δωμάτιο είναι άδειο, εκτός από δύο μεγάλα σεντούκια.\n"
+"\t\t\t\t\tΣε καθένα είναι σκαλισμένο ένα μήνυμα (περιέργως στα αγγλικά):\n"
+"\t\t\t\t"
 
 #. type: Content of: <section><investigation><p><ol><li><sidebyside><p>
 #: source/sec_intro-intro.ptx:112
@@ -627,6 +742,9 @@ msgid ""
 "\t\t\t\t\t\tExactly one of these chests contains a treasure, while the other is filled with deadly immortal scorpions.\n"
 "\t\t\t\t\t"
 msgstr ""
+"\t\t\t\t\t\tΑκριβώς ένα από αυτά τα σεντούκια περιέχει θησαυρό, ενώ το άλλο "
+"είναι γεμάτο θανατηφόρους αθάνατους σκορπιούς.\n"
+"\t\t\t\t\t"
 
 #. type: Content of: <section><investigation><p><ol><li><sidebyside><p>
 #: source/sec_intro-intro.ptx:116
@@ -635,6 +753,9 @@ msgid ""
 "\t\t\t\t\t\tFor either chest, if the chest's message is true, then the chest contains treasure.\n"
 "\t\t\t\t\t"
 msgstr ""
+"\t\t\t\t\t\tΓια οποιοδήποτε από τα δύο σεντούκια, αν το μήνυμά του είναι "
+"αληθές, τότε το σεντούκι περιέχει θησαυρό.\n"
+"\t\t\t\t\t"
 
 #. type: Content of: <section><investigation><p><ol><li><p>
 #: source/sec_intro-intro.ptx:121
@@ -643,6 +764,9 @@ msgid ""
 "\t\t\t\t\tThe problem is, you don't know whether the messages are true or false.  What do you do?\n"
 "\t\t\t\t"
 msgstr ""
+"\t\t\t\t\tΤο πρόβλημα είναι ότι δεν ξέρετε αν τα μηνύματα είναι αληθή ή "
+"ψευδή.  Τι κάνετε;\n"
+"\t\t\t\t"
 
 #. type: Content of: <section><investigation><p><ol><li><p>
 #: source/sec_intro-intro.ptx:127
@@ -658,6 +782,19 @@ msgid ""
 "\t\t\t\t\tIs it possible for each of these towns to build a road to each of the four other towns without creating any intersections?\n"
 "\t\t\t\t"
 msgstr ""
+"\t\t\t\t\tΣτα παλιά τα χρόνια,\n"
+"\t\t\t\t\tπέντε μικρές πόλεις αποφάσισαν ότι ήθελαν να χτίσουν δρόμους που "
+"θα συνέδεαν απευθείας κάθε ζεύγος πόλεων.\n"
+"\t\t\t\t\tΕνώ οι πόλεις είχαν άφθονα χρήματα για να χτίσουν δρόμους όσο "
+"μακριούς και δαιδαλώδεις ήθελαν,\n"
+"\t\t\t\t\tήταν πολύ σημαντικό οι δρόμοι να μην τέμνονται\n"
+"\t\t\t\t\tμεταξύ τους\n"
+"\t\t\t\t\t(αφού τα σήματα στοπ δεν είχαν ακόμη εφευρεθεί).\n"
+"\t\t\t\t\tΕπίσης, σήραγγες και γέφυρες δεν επιτρέπονταν, για ηθικούς "
+"λόγους.\n"
+"\t\t\t\t\tΕίναι δυνατόν κάθε μία από αυτές τις πόλεις να χτίσει δρόμο προς "
+"καθεμία από τις άλλες τέσσερις πόλεις χωρίς να δημιουργηθεί καμία τομή;\n"
+"\t\t\t\t"
 
 #. type: Content of: <section><p>
 #: source/sec_intro-intro.ptx:142
@@ -668,6 +805,14 @@ msgid ""
 "\t\tHow can we represent the situation using individually separate and distinct objects?  Don't read on until you have thought about at least this for each of the questions.\n"
 "\t"
 msgstr ""
+"\t\tΚαθώς σκέφτεστε τα παραπάνω προβλήματα, μην ανησυχείτε αν δεν σας είναι "
+"προφανείς οι λύσεις.\n"
+"\t\tΜας ενδιαφέρει εδώ περισσότερο το τι είδους πληροφορία χρειαζόμαστε για "
+"να μπορέσουμε να απαντήσουμε τις ερωτήσεις.\n"
+"\t\tΠώς μπορούμε να αναπαραστήσουμε την κατάσταση χρησιμοποιώντας μεμονωμένα "
+"διαχωρισμένα και ξεχωριστά αντικείμενα;  Μη συνεχίσετε την ανάγνωση μέχρι να "
+"το σκεφτείτε αυτό τουλάχιστον για καθεμία από τις ερωτήσεις.\n"
+"\t"
 
 #. type: Content of: <section><p>
 #: source/sec_intro-intro.ptx:148
@@ -676,6 +821,8 @@ msgid ""
 "\t\tReady?  Here are some things you might have thought about:\n"
 "\t\t"
 msgstr ""
+"\t\tΈτοιμοι;  Ορίστε μερικά πράγματα που μπορεί να σκεφτήκατε:\n"
+"\t\t"
 
 #. type: Content of: <section><p><ol><li><p>
 #: source/sec_intro-intro.ptx:152
@@ -687,6 +834,13 @@ msgid ""
 "\t\t\t\t\tSo the question is really, how many pairs can you make using elements from a 10-element set?\n"
 "\t\t\t\t"
 msgstr ""
+"\t\t\t\t\tΤα άτομα στο πάρτι είναι μεμονωμένα άτομα.\n"
+"\t\t\t\t\tΜπορούμε να θεωρήσουμε το <em>σύνολο</em> των ατόμων.\n"
+"\t\t\t\t\tΜπορούμε επίσης να θεωρήσουμε σύνολα ζευγών ατόμων, αφού "
+"χρειάζονται ακριβώς δύο άτομα για μια χειραψία.\n"
+"\t\t\t\t\tΆρα το ερώτημα είναι στην πραγματικότητα, πόσα ζεύγη μπορείτε να "
+"φτιάξετε χρησιμοποιώντας στοιχεία από ένα σύνολο 10 στοιχείων;\n"
+"\t\t\t\t"
 
 #. type: Content of: <section><p><ol><li><p>
 #: source/sec_intro-intro.ptx:159
@@ -695,6 +849,11 @@ msgid ""
 "\t\t\t\t\tFor example, if there were three people at the party, conveniently named <m>1</m>, <m>2</m>, and <m>3</m>, then the pairs would be <m>(1,2)</m>, <m>(1,3)</m>, and <m>(2,3)</m>.  Or should we include <m>(2,1)</m>, <m>(3,1)</m>, and <m>(3,2)</m> as well?\n"
 "\t\t\t\t"
 msgstr ""
+"\t\t\t\t\tΓια παράδειγμα, αν υπήρχαν τρία άτομα στο πάρτι, βολικά ονομασμένα "
+"<m>1</m>, <m>2</m>, και <m>3</m>, τότε τα ζεύγη θα ήταν <m>(1,2)</m>, <m>"
+"(1,3)</m>, και <m>(2,3)</m>.  Ή μήπως θα έπρεπε να συμπεριλάβουμε και τα <m>"
+"(2,1)</m>, <m>(3,1)</m>, και <m>(3,2)</m>;\n"
+"\t\t\t\t"
 
 #. type: Content of: <section><p><ol><li><p>
 #: source/sec_intro-intro.ptx:164
@@ -703,6 +862,14 @@ msgid ""
 "          To count the number of hot dogs eaten, either by an individual or in total, we could use a <term>sequence</term> of integers (whole numbers).  The <m>n</m>th term in the sequence might represent the number of hot dogs eaten by the <m>n</m>th contestant.  We can consider a second sequence, also of integers, that gives the total number of hot dogs eaten by the first <m>n</m> contestants combined.\n"
 "        "
 msgstr ""
+"          Για να μετρήσουμε τον αριθμό των λουκάνικων που φαγώθηκαν, είτε "
+"από ένα άτομο είτε συνολικά, θα μπορούσαμε να χρησιμοποιήσουμε μια <term>"
+"ακολουθία</term> ακεραίων (φυσικών αριθμών).  Ο <m>n</m>-οστός όρος της "
+"ακολουθίας θα μπορούσε να αναπαριστά τον αριθμό των λουκάνικων που έφαγε ο "
+"<m>n</m>-οστός διαγωνιζόμενος.  Μπορούμε να θεωρήσουμε και μια δεύτερη "
+"ακολουθία, επίσης ακεραίων, που δίνει το συνολικό αριθμό λουκάνικων που "
+"έφαγαν μαζί οι πρώτοι <m>n</m> διαγωνιζόμενοι.\n"
+"        "
 
 #. type: Content of: <section><p><ol><li><p>
 #: source/sec_intro-intro.ptx:167
@@ -711,6 +878,11 @@ msgid ""
 "          The solution to the problem will then be the value of the 26th term in the sequence.  To help us find this, we could consider the rate of growth of the sequences, as well as how these two sequences relate to each other.\n"
 "        "
 msgstr ""
+"          Η λύση του προβλήματος θα είναι τότε η τιμή του 26ου όρου της "
+"ακολουθίας.  Για να μας βοηθήσει να τη βρούμε, θα μπορούσαμε να εξετάσουμε "
+"τον ρυθμό αύξησης των ακολουθιών, καθώς και το πώς σχετίζονται αυτές οι δύο "
+"ακολουθίες μεταξύ τους.\n"
+"        "
 
 #. type: Content of: <section><p><ol><li><p>
 #: source/sec_intro-intro.ptx:172
@@ -719,6 +891,13 @@ msgid ""
 "          Logic questions also belong under the discrete math umbrella: Each statement can have a <em>value</em> of True or False (and there is nothing in-between).  To answer questions like that of the chests of scorpions, we must understand the structure of the statements, and how the truth values of the parts of the statements interact to determine the truth value of the whole statement.\n"
 "        "
 msgstr ""
+"          Τα ερωτήματα λογικής ανήκουν επίσης στην ομπρέλα των διακριτών "
+"μαθηματικών: Κάθε πρόταση μπορεί να έχει μια <em>τιμή</em> Αληθές ή Ψευδές "
+"(και δεν υπάρχει τίποτα ενδιάμεσο).  Για να απαντήσουμε ερωτήματα όπως αυτό "
+"με τα σεντούκια των σκορπιών, πρέπει να κατανοήσουμε τη δομή των προτάσεων, "
+"και πώς οι τιμές αλήθειας των μερών των προτάσεων αλληλεπιδρούν για να "
+"καθορίσουν την τιμή αλήθειας ολόκληρης της πρότασης.\n"
+"        "
 
 #. type: Content of: <section><p><ol><li><p>
 #: source/sec_intro-intro.ptx:177
@@ -727,6 +906,14 @@ msgid ""
 "          The last question is about a discrete structure called a <term>graph</term>, not to be confused with a graph of a function or set of points.  We can use a graph to represent which elements of a set (or towns) are related to each other (or connected by a road).  In this case, the question becomes, can we draw a graph with five vertices (towns) and ten edges (roads) such that no two edges intersect?  \n"
 "        "
 msgstr ""
+"          Το τελευταίο ερώτημα αφορά μια διακριτή δομή που ονομάζεται <term>"
+"γράφος</term>, που δεν πρέπει να συγχέεται με το γράφημα μιας συνάρτησης ή "
+"ένα σύνολο σημείων.  Μπορούμε να χρησιμοποιήσουμε έναν γράφο για να "
+"αναπαραστήσουμε ποια στοιχεία ενός συνόλου (ή πόλεις) σχετίζονται μεταξύ "
+"τους (ή συνδέονται με δρόμο).  Σε αυτή την περίπτωση, το ερώτημα γίνεται, "
+"μπορούμε να σχεδιάσουμε έναν γράφο με πέντε κορυφές (πόλεις) και δέκα ακμές "
+"(δρόμους) έτσι ώστε καμία δύο ακμές να μην τέμνονται;  \n"
+"        "
 
 #. type: Content of: <section><p>
 #: source/sec_intro-intro.ptx:184
@@ -746,6 +933,22 @@ msgid ""
 "\t\thave both discrete and non-discrete variants).\n"
 "\t"
 msgstr ""
+"\t\tΤα τέσσερα παραπάνω προβλήματα απεικονίζουν τα τέσσερα κύρια θέματα "
+"αυτού του βιβλίου:\n"
+"\t\tτη <term>συνδυαστική</term>\n"
+"\t\t(τη θεωρία των τρόπων με τους οποίους τα πράγματα <em>συνδυάζονται</em>"
+"·\n"
+"\t\tειδικότερα, το πώς μετράμε αυτούς τους τρόπους),\n"
+"\t\tτις <term>ακολουθίες</term>, τη <term>συμβολική λογική</term>,\n"
+"\t\tκαι τη <term>θεωρία γράφων</term>.\n"
+"\t\tΩστόσο, υπάρχουν και άλλα θέματα που θεωρούνται επίσης μέρος των "
+"διακριτών μαθηματικών, \n"
+"\t\tόπως η επιστήμη υπολογιστών, η αφηρημένη άλγεβρα,\n"
+"\t\tη θεωρία αριθμών, η θεωρία παιγνίων,\n"
+"\t\tη πιθανότητα, και η γεωμετρία\n"
+"\t\t(κάποια από αυτά, ιδίως τα δύο τελευταία,\n"
+"\t\tέχουν τόσο διακριτές όσο και μη διακριτές παραλλαγές).\n"
+"\t"
 
 #. type: Content of: <section><p>
 #: source/sec_intro-intro.ptx:199
@@ -758,6 +961,14 @@ msgid ""
 "\t\tproblems, we will consider a very brief overview of the types of discrete structures we will be using.\n"
 "\t"
 msgstr ""
+"\t\tΤελικά, ο καλύτερος τρόπος να μάθετε τι είναι τα διακριτά μαθηματικά "
+"είναι να τα <em>κάνετε</em>.\n"
+"\t\tΑς ξεκινήσουμε!\n"
+"\t\tΠριν αρχίσουμε να απαντάμε πιο περίπλοκα\n"
+"\t\t(και διασκεδαστικά)\n"
+"\t\tπροβλήματα, θα δούμε μια πολύ σύντομη επισκόπηση των τύπων διακριτών "
+"δομών που θα χρησιμοποιήσουμε.\n"
+"\t"
 
 #. type: Content of: <section><reading-questions><introduction><p>
 #: source/sec_intro-intro.ptx:208
@@ -769,6 +980,15 @@ msgid ""
 "\t\t\tThinking about what you don't yet know is a wonderful way to further your understanding of what you do.\n"
 "\t\t"
 msgstr ""
+"\t\t\tΚάθε ενότητα του βιβλίου θα κλείνει με έναν μικρό αριθμό <em>Ερωτήσεων "
+"Κατανόησης</em> όπως αυτές παρακάτω.\n"
+"\t\t\tΑυτές έχουν σχεδιαστεί για να σας βοηθήσουν να προβληματιστείτε πάνω "
+"σε όσα διαβάσατε.\n"
+"\t\t\tΕιδικότερα, η τελευταία ερώτηση κατανόησης σάς ζητά να θέσετε μια δική "
+"σας ερώτηση.\n"
+"\t\t\tΤο να σκέφτεστε τι δεν γνωρίζετε ακόμα είναι ένας υπέροχος τρόπος να "
+"εμβαθύνετε την κατανόησή σας για όσα γνωρίζετε.\n"
+"\t\t"
 
 #. type: Content of: <section><reading-questions><exercise><statement><p>
 #: source/sec_intro-intro.ptx:218
@@ -777,6 +997,10 @@ msgid ""
 "\t\t\t\tRight now, how would you describe what <term>discrete</term> mathematics is about, if you were telling your friends about the class you are in?  Write one or two sentences.\n"
 "\t\t\t"
 msgstr ""
+"\t\t\t\tΑυτή τη στιγμή, πώς θα περιγράφατε το αντικείμενο των <term>"
+"διακριτών</term> μαθηματικών, αν μιλούσατε στους φίλους σας για το μάθημα "
+"που παρακολουθείτε;  Γράψτε μία ή δύο προτάσεις.\n"
+"\t\t\t"
 
 #. type: Content of: <section><reading-questions><exercise><statement><p>
 #: source/sec_intro-intro.ptx:227
@@ -785,18 +1009,22 @@ msgid ""
 "\t\t\t\tWhat questions do you have after reading this section?  Write at least one question about the content of this section that you are curious about.\n"
 "\t\t\t"
 msgstr ""
+"\t\t\t\tΤι ερωτήσεις έχετε μετά την ανάγνωση αυτής της ενότητας;  Γράψτε "
+"τουλάχιστον μία ερώτηση σχετικά με το περιεχόμενο αυτής της ενότητας που σας "
+"κινεί την περιέργεια.\n"
+"\t\t\t"
 
 #. type: Content of: <appendix><section><subsection><title>
 #: source/sec_intro-structures.ptx:3 source/peer-instruction.ptx:16
 #, no-wrap
 msgid "Discrete Structures"
-msgstr ""
+msgstr "Διακριτές Δομές"
 
 #. type: Content of: <section><subsection><title>
 #: source/sec_intro-structures.ptx:5 source/sec_structures-relations.ptx:5
 #, no-wrap
 msgid "Introduction"
-msgstr ""
+msgstr "Εισαγωγή"
 
 #. type: Content of: <section><subsection><investigation><p>
 #: source/sec_intro-structures.ptx:8
@@ -806,6 +1034,12 @@ msgid ""
 "\t\t\tHow many tiles are in a double-six domino set?  How many dominoes are in a double-nine domino set?  How many dominoes are in a double-<m>n</m> domino set?\n"
 "\t\t"
 msgstr ""
+"\t\t\tΈνα σετ ντόμινο διπλού-έξι αποτελείται από πλακίδια που περιέχουν "
+"ζεύγη αριθμών, το καθένα από 0 έως 6.\n"
+"\t\t\tΠόσα πλακίδια υπάρχουν σε ένα σετ ντόμινο διπλού-έξι;  Πόσα ντόμινο "
+"υπάρχουν σε ένα σετ διπλού-εννέα;  Πόσα ντόμινο υπάρχουν σε ένα σετ διπλού-"
+"<m>n</m>;\n"
+"\t\t"
 
 #. type: Content of: <section><subsection><exercise><statement><p>
 #: source/sec_intro-structures.ptx:16
@@ -816,6 +1050,12 @@ msgid ""
 "\t\t\t\t\tYou do not need to find a complete solution, but you should describe what you could try and what you think you might need to do to find a solution.\n"
 "\t\t\t\t"
 msgstr ""
+"\t\t\t\t\tΑφιερώστε λίγα λεπτά σκεπτόμενοι τις παραπάνω ερωτήσεις.\n"
+"\t\t\t\t\tΈπειτα γράψτε 2-3 προτάσεις περιγράφοντας τις σκέψεις σας.\n"
+"\t\t\t\t\tΔεν χρειάζεται να βρείτε μια πλήρη λύση, αλλά θα πρέπει να "
+"περιγράψετε τι θα μπορούσατε να δοκιμάσετε και τι πιστεύετε ότι ίσως "
+"χρειαστεί να κάνετε για να βρείτε μια λύση.\n"
+"\t\t\t\t"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:25
@@ -827,6 +1067,19 @@ msgid ""
 "\t\t\tIf we were art students, we could study paintbrushes and easels and the composition of paint, which would be interesting for sure, but I think it is more enjoyable to actually paint those happy little trees.\n"
 "\t\t"
 msgstr ""
+"\t\t\tΑκολουθούμε μια προσέγγιση επίλυσης προβλημάτων στα διακριτά "
+"μαθηματικά: Θα εξετάσουμε μια μεγάλη ποικιλία ερωτημάτων που έχουν διακριτό "
+"χαρακτήρα, και θα δούμε πώς να απαντάμε σε αυτά τα ερωτήματα (και πώς να "
+"αποδεικνύουμε ότι οι απαντήσεις μας είναι σωστές).\n"
+"\t\t\tΑυτός δεν είναι ο μόνος τρόπος να μελετήσει κανείς τα διακριτά "
+"μαθηματικά.\n"
+"\t\t\tΜια άλλη προσέγγιση θα ήταν να μελετήσουμε τα εργαλεία που "
+"χρησιμοποιούνται για την επίλυση των προβλημάτων.\n"
+"\t\t\tΑν ήμασταν φοιτητές καλών τεχνών, θα μπορούσαμε να μελετήσουμε πινέλα "
+"και καβαλέτα και τη σύσταση της μπογιάς, κάτι που σίγουρα θα ήταν "
+"ενδιαφέρον, αλλά νομίζω ότι είναι πιο ευχάριστο να ζωγραφίζεις πράγματι "
+"εκείνα τα χαρούμενα δεντράκια.\n"
+"\t\t"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:32
@@ -836,12 +1089,18 @@ msgid ""
 "\t\t\tWe will come back to these throughout our studies and understand them better as we need to.\n"
 "\t\t"
 msgstr ""
+"\t\t\tΤούτου λεχθέντος, η κατανόηση των εργαλείων σας πράγματι βοηθά στη "
+"χρήση τους, οπότε σε αυτή την ενότητα θα εξετάσουμε μερικά βασικά εργαλεία "
+"που χρησιμοποιούνται στα διακριτά μαθηματικά.\n"
+"\t\t\tΘα επανερχόμαστε σε αυτά καθ' όλη τη διάρκεια των σπουδών μας και θα "
+"τα κατανοούμε καλύτερα όποτε χρειάζεται.\n"
+"\t\t"
 
 #. type: Content of: <section><subsection><p><idx><see>
 #: source/sec_intro-structures.ptx:39
 #, no-wrap
 msgid "structures"
-msgstr ""
+msgstr "δομές"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:43
@@ -852,6 +1111,16 @@ msgid ""
 "\t\t\t<q>Structure</q> is a good word here, since these <q>things</q> have fairly rigid constraints that make them what they are, just like an apartment building is going to have different characteristics than an airplane hangar or a suspension bridge (these are types of physical structures, not mathematical structures, just to be overly clear and destroy the metaphor).\n"
 "\t\t"
 msgstr ""
+" Τα εργαλεία του αντικειμένου μας ονομάζονται <term>διακριτές δομές</term>.\n"
+"\t\t\tΕίναι τα μαθηματικά αντικείμενα που χρησιμοποιούμε για να "
+"αναπαραστήσουμε μέρη των προβλημάτων που επιλύουμε.\n"
+"\t\t\tΗ λέξη <q>δομή</q> ταιριάζει καλά εδώ, αφού αυτά τα <q>πράγματα</q> "
+"έχουν αρκετά αυστηρούς περιορισμούς που τα καθορίζουν ως αυτό που είναι, "
+"όπως ακριβώς ένα κτίριο διαμερισμάτων θα έχει διαφορετικά χαρακτηριστικά από "
+"ένα υπόστεγο αεροσκαφών ή μια κρεμαστή γέφυρα (αυτές είναι τύποι φυσικών "
+"δομών, όχι μαθηματικών δομών, απλώς για να είμαστε υπερβολικά σαφείς και να "
+"καταστρέψουμε τη μεταφορά).\n"
+"\t\t"
 
 #.  In particular, if you need a refresher on sets and functions, or have not played with these much at all yet, they are treated in greater detail in <xref ref="sec_intro-sets" />
 #.  and <xref ref="sec_intro-functions" />.
@@ -866,13 +1135,21 @@ msgid ""
 "\t\t\t\n"
 "\t\t"
 msgstr ""
+"\t\t\tΟι δομές που θα χρησιμοποιήσουμε περισσότερο στα διακριτά μαθηματικά "
+"είναι τα <term>σύνολα</term>, οι <term>συναρτήσεις</term>, οι <term>"
+"ακολουθίες</term>, οι <term>σχέσεις</term>, και οι <term>γράφοι</term>.\n"
+"\t\t\tΤώρα θα κάνουμε μια σύντομη προεπισκόπηση καθεμιάς από αυτές.\n"
+"\t\t\tΚαθώς προχωράμε στις σπουδές μας, καθεμία θα εξεταστεί με περισσότερη "
+"λεπτομέρεια.\n"
+"\t\t\t\n"
+"\t\t"
 
 #. type: Content of: <appendix><section><subsection><title>
 #: source/sec_intro-structures.ptx:58 source/sec_structures-sets.ptx:4
 #: source/peer-instruction.ptx:19
 #, no-wrap
 msgid "Sets"
-msgstr ""
+msgstr "Σύνολα"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:61
@@ -884,6 +1161,18 @@ msgid ""
 "\t\t\tRather, we want to be able to talk about collections of numbers and other objects, and we will collect them in something we call a <term>set</term>.\n"
 "\t\t"
 msgstr ""
+"\t\t\tΈνα <term>σύνολο</term> είναι μια <em>μη διατεταγμένη</em> συλλογή "
+"στοιχείων.\n"
+"\t\t\tΑυτό είναι αρκετά ασαφές, αλλά εκτός αν θέλουμε να αφιερώσουμε "
+"ολόκληρο βιβλίο προσπαθώντας να κατανοήσουμε τα σύνολα πιο αυστηρά, θα μας "
+"είναι αρκετό.\n"
+"\t\t\tΕίναι δυνατόν να οριστούν όλα τα μαθηματικά χρησιμοποιώντας μόνο "
+"σύνολα (ακόμη και οι αριθμοί μπορούν να θεωρηθούν ως σύνολα οι ίδιοι), αλλά "
+"ούτε αυτό είναι κάτι που θα κάνουμε.\n"
+"\t\t\tΑντίθετα, θέλουμε να μπορούμε να μιλάμε για συλλογές αριθμών και άλλων "
+"αντικειμένων, και θα τις συγκεντρώνουμε σε κάτι που ονομάζουμε <term>σύνολο</"
+"term>.\n"
+"\t\t"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:68
@@ -898,6 +1187,26 @@ msgid ""
 "\t\t\tThe <m>\\st</m> is read <q>such that</q> and tells us that what comes next is the <em>condition</em> that must be true of the set's elements.\n"
 "\t\t"
 msgstr ""
+"\t\t\tΜπορούμε να περιγράψουμε τα σύνολα λέγοντας ακριβώς ποια στοιχεία "
+"είναι μέλη του συνόλου.\n"
+"\t\t\tΘα μπορούσαμε να προσδιορίσουμε αυτή τη συμμετοχή με λόγια (π.χ., Έστω "
+"<m>A</m> το σύνολο όλων των φυσικών αριθμών μικρότερων του 10), ή "
+"απαριθμώντας ρητά όλα τα στοιχεία (π.χ.,\n"
+"\t\t\t<m>A = \\{3, 5, 7\\}</m>), ή χρησιμοποιώντας κάτι που ονομάζεται <term>"
+"περιγραφικός ορισμός συνόλου</term> (γνωστός και ως <term>συμβολισμός με "
+"ιδιότητα</term>).\n"
+"\t\t\tΈνα παράδειγμα αυτού είναι το <m>A = \\{x \\in \\N \\st x \\lt 10\\}</"
+"m>.\n"
+"\t\t\tΘα το διαβάζαμε ως <q>το <m>A</m> είναι το σύνολο των φυσικών αριθμών "
+"που ικανοποιούν την ιδιότητα ότι είναι μικρότεροι του 10.</q> Πιο "
+"συγκεκριμένα, το σύμβολο <m>\\N</m> αναπαριστά τους φυσικούς αριθμούς, που "
+"είναι το ίδιο ένα σύνολο: <m>\\N = \\{0, 1, 2, 3, \\ldots\\}</m> (αυτό "
+"δείχνει έναν ακόμη τρόπο περιγραφής ενός συνόλου).\n"
+"\t\t\tΤο σύμβολο <m>\\in</m> σημαίνει <q>είναι στοιχείο του</q>.\n"
+"\t\t\tΤο <m>\\st</m> διαβάζεται <q>τέτοιο ώστε</q> και μας λέει ότι αυτό που "
+"ακολουθεί είναι η <em>συνθήκη</em> που πρέπει να ισχύει για τα στοιχεία του "
+"συνόλου.\n"
+"\t\t"
 
 #. type: Content of: <section><subsection><aside><p>
 #: source/sec_intro-structures.ptx:79
@@ -908,6 +1217,12 @@ msgid ""
 "        It largely depends on what area of mathematics you study.\n"
 "      "
 msgstr ""
+"        Σε αυτό το βιβλίο, ορίζουμε τους <term>φυσικούς αριθμούς</term> ως "
+"τους ακέραιους αριθμούς ξεκινώντας από το 0.\n"
+"        Δεν συμπεριλαμβάνουν όλα τα βιβλία το 0 σε αυτό το σύνολο.\n"
+"        Αυτό εξαρτάται σε μεγάλο βαθμό από τον κλάδο των μαθηματικών που "
+"μελετάτε.\n"
+"      "
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:86
@@ -917,6 +1232,12 @@ msgid ""
 "\t\t\tA set is <em>determined</em> by its membership, so all four of the following describe exactly the same set:\n"
 "\t\t\t"
 msgstr ""
+"\t\t\tΑφού υπάρχουν πολλοί τρόποι να περιγράψουμε το ίδιο σύνολο, πρέπει να "
+"είμαστε προσεκτικοί σχετικά με το τι σημαίνει τα σύνολα να είναι ίδια ή "
+"διαφορετικά.\n"
+"\t\t\tΈνα σύνολο <em>καθορίζεται</em> από τη συμμετοχή του, οπότε και τα "
+"τέσσερα παρακάτω περιγράφουν ακριβώς το ίδιο σύνολο:\n"
+"\t\t\t"
 
 #. type: Content of: <section><subsection><p><ol><li><p>
 #: source/sec_intro-structures.ptx:91
@@ -925,6 +1246,8 @@ msgid ""
 "\t\t\t\t\t\t<m>\\{1, 2, 3, 4\\}</m>.\n"
 "\t\t\t\t\t"
 msgstr ""
+"\t\t\t\t\t\t<m>\\{1, 2, 3, 4\\}</m>.\n"
+"\t\t\t\t\t"
 
 #. type: Content of: <section><subsection><p><ol><li><p>
 #: source/sec_intro-structures.ptx:97
@@ -934,6 +1257,9 @@ msgid ""
 "\t\t\t\t\t\t(How many numbers belong to this set? It's not 5.)\n"
 "\t\t\t\t\t"
 msgstr ""
+"\t\t\t\t\t\t<m>\\{1, 2, 1+1, 1+2, 2+2\\}</m>.\n"
+"\t\t\t\t\t\t(Πόσοι αριθμοί ανήκουν σε αυτό το σύνολο; Δεν είναι 5.)\n"
+"\t\t\t\t\t"
 
 #. type: Content of: <section><subsection><p><ol><li><p>
 #: source/sec_intro-structures.ptx:104
@@ -943,6 +1269,10 @@ msgid ""
 "\t\t\t\t\t\t(All that matters is what elements are in the collection, not what order they were written down in.)\n"
 "\t\t\t\t\t"
 msgstr ""
+"\t\t\t\t\t\t<m>\\{2, 4, 1, 3\\}</m>.\n"
+"\t\t\t\t\t\t(Το μόνο που έχει σημασία είναι ποια στοιχεία βρίσκονται στη "
+"συλλογή, όχι με ποια σειρά γράφτηκαν.)\n"
+"\t\t\t\t\t"
 
 #. type: Content of: <section><subsection><p><ol><li><p>
 #: source/sec_intro-structures.ptx:111
@@ -951,6 +1281,8 @@ msgid ""
 "\t\t\t\t\t\t<m>\\{x \\in \\N \\st x \\lt 5 \\text{ and } x \\ge 1\\}</m>.\n"
 "\t\t\t\t\t"
 msgstr ""
+"\t\t\t\t\t\t<m>\\{x \\in \\N \\st x \\lt 5 \\text{ and } x \\ge 1\\}</m>.\n"
+"\t\t\t\t\t"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:118
@@ -963,13 +1295,27 @@ msgid ""
 "\t\t\tLet's check it out.\n"
 "\t\t"
 msgstr ""
+"\t\t\tΥπάρχουν πολλά πράγματα που μπορείτε να <em>κάνετε</em> με σύνολα, τα "
+"οποία θα εξετάσουμε με περισσότερη λεπτομέρεια όποτε χρειαστεί.\n"
+"\t\t\tΘα δούμε ότι είναι συχνά χρήσιμο να χτίζουμε νέα σύνολα από αυτά που "
+"ήδη έχουμε (παίρνοντας την <term>ένωση</term> ή την <term>τομή</term> "
+"συνόλων, για παράδειγμα), να συγκρίνουμε σύνολα (ρωτώντας αν ένα σύνολο "
+"είναι <term>υποσύνολο</term> ενός άλλου), και να βρίσκουμε τον αριθμό "
+"στοιχείων ενός συνόλου (που ονομάζεται <term>πληθικότητά</term> του).\n"
+"\t\t\tΜπορεί επίσης να θέλουμε να αντιστοιχίσουμε στοιχεία ενός συνόλου με "
+"ένα άλλο: Για να το κάνουμε αυτό, μπορούμε να χρησιμοποιήσουμε μια <term>"
+"συνάρτηση</term>, την οποία θα συζητήσουμε στη συνέχεια.\n"
+"\t\t\tΤο ωραίο είναι ότι μπορούμε επίσης να χρησιμοποιήσουμε τα ίδια τα "
+"σύνολα για να περιγράψουμε συναρτήσεις.\n"
+"\t\t\tΑς το δούμε.\n"
+"\t\t"
 
 #. type: Content of: <appendix><section><subsection><title>
 #: source/sec_intro-structures.ptx:127 source/sec_structures-functions.ptx:4
 #: source/peer-instruction.ptx:24
 #, no-wrap
 msgid "Functions"
-msgstr ""
+msgstr "Συναρτήσεις"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:142
@@ -981,6 +1327,16 @@ msgid ""
 "\t\t\tYou might also speak of the <term>range</term> of the function, which is the set of all <em>actual</em> outputs, or put another way, the set of all <em>images</em> of elements from the domain.\n"
 "\t\t"
 msgstr ""
+"      Ένας τρόπος να ορίσουμε μια <term>συνάρτηση</term> είναι ως έναν "
+"κανόνα που αντιστοιχίζει σε κάθε είσοδο ακριβώς μία έξοδο.\n"
+"\t\t\tΗ έξοδος ονομάζεται <term>εικόνα</term> της εισόδου.\n"
+"\t\t\tΟι συναρτήσεις διαθέτουν επίσης ένα <term>πεδίο ορισμού</term>, το "
+"σύνολο όλων των εισόδων, και ένα <term>πεδίο άφιξης</term>, το σύνολο όλων "
+"των επιτρεπτών εξόδων.\n"
+"\t\t\tΜπορεί επίσης να μιλάμε για το <term>σύνολο τιμών</term> της "
+"συνάρτησης, που είναι το σύνολο όλων των <em>πραγματικών</em> εξόδων, ή "
+"αλλιώς, το σύνολο όλων των <em>εικόνων</em> στοιχείων από το πεδίο ορισμού.\n"
+"\t\t"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:149
@@ -993,6 +1349,16 @@ msgid ""
 "\t\t\tWe could also define a function with a table or a graph.\n"
 "\t\t"
 msgstr ""
+"\t\t\tΓράφουμε <m>f:X \\to Y</m> για να περιγράψουμε μια συνάρτηση με όνομα "
+"<m>f</m>, πεδίο ορισμού <m>X</m> και πεδίο άφιξης <m>Y</m>.\n"
+"\t\t\tΑυτό όμως δεν μας λέει <em>ποια</em> συνάρτηση είναι η <m>f</m>.\n"
+"\t\t\tΓια να ορίσουμε τη συνάρτηση, πρέπει να περιγράψουμε τον κανόνα.\n"
+"\t\t\tΣυχνά αυτό γίνεται με έναν τύπο (για παράδειγμα, το <m>f(x) = x^2</m> "
+"λέει ότι κάθε στοιχείο του πεδίου ορισμού απεικονίζεται στο τετράγωνό του), "
+"ή με λόγια (όπως μόλις περιγράψαμε τη συνάρτηση τετραγωνισμού).\n"
+"\t\t\tΘα μπορούσαμε επίσης να ορίσουμε μια συνάρτηση με έναν πίνακα ή ένα "
+"γράφημα.\n"
+"\t\t"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:157
@@ -1003,6 +1369,12 @@ msgid ""
 "\t\t\tWhat output do we assign to the input 7? There can only be one answer for any particular function.\n"
 "\t\t"
 msgstr ""
+"\t\t\tΤο βασικό στοιχείο που κάνει έναν κανόνα <em>συνάρτηση</em> είναι ότι "
+"υπάρχει <em>ακριβώς μία</em> έξοδος για κάθε είσοδο.\n"
+"\t\t\tΔηλαδή, ο κανόνας πρέπει να είναι καλά ορισμένος.\n"
+"\t\t\tΤι έξοδο αντιστοιχίζουμε στην είσοδο 7; Μπορεί να υπάρχει μόνο μία "
+"απάντηση για οποιαδήποτε συγκεκριμένη συνάρτηση.\n"
+"\t\t"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:163
@@ -1011,12 +1383,17 @@ msgid ""
 "\t\t\tSince a function maps one set (the domain) to another set (the codomain), there is an obvious connection between sets and functions.\n"
 "\t\t\tThere is another connection worth considering though: The graph of a function is often described as a "
 msgstr ""
+"\t\t\tΑφού μια συνάρτηση απεικονίζει ένα σύνολο (το πεδίο ορισμού) σε ένα "
+"άλλο σύνολο (το πεδίο άφιξης), υπάρχει μια προφανής σύνδεση μεταξύ συνόλων "
+"και συναρτήσεων.\n"
+"\t\t\tΥπάρχει όμως και μια άλλη σύνδεση που αξίζει να εξετάσουμε: Το γράφημα "
+"μιας συνάρτησης περιγράφεται συχνά ως ένα "
 
 #. type: Content of: <section><subsection><p><alert>
 #: source/sec_intro-structures.ptx:164
 #, no-wrap
 msgid "set"
-msgstr ""
+msgstr "σύνολο"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:164
@@ -1026,6 +1403,9 @@ msgid ""
 "\t\t\tHere is an example.\n"
 "\t\t"
 msgstr ""
+" σημείων.\n"
+"\t\t\tΝα ένα παράδειγμα.\n"
+"\t\t"
 
 #. type: Content of: <section><subsection><example><p>
 #: source/sec_intro-structures.ptx:170
@@ -1035,6 +1415,13 @@ msgid ""
 "\t\t\t\tIf we wanted to plot a graph of this function, we would draw the points <m>(1,2)</m>, <m>(2,4)</m>, and <m>(3,6)</m> (but we would not connect these points with lines, since we are studying discrete math; the domain only contains three elements, not the infinitely many between them).\n"
 "\t\t\t"
 msgstr ""
+"\t\t\t\tΘεωρήστε τη συνάρτηση <m>f:\\{1,2,3\\} \\to \\{2, 4, 6\\}</m> που "
+"ορίζεται από την <m>f(x) = 2x</m>.\n"
+"\t\t\t\tΑν θέλαμε να σχεδιάσουμε το γράφημα αυτής της συνάρτησης, θα "
+"σχεδιάζαμε τα σημεία <m>(1,2)</m>, <m>(2,4)</m>, και <m>(3,6)</m> (αλλά δεν "
+"θα ενώναμε αυτά τα σημεία με ευθείες, αφού μελετάμε διακριτά μαθηματικά· το "
+"πεδίο ορισμού περιέχει μόνο τρία στοιχεία, όχι τα άπειρα ενδιάμεσα).\n"
+"\t\t\t"
 
 #. type: Content of: <section><subsection><example><p>
 #: source/sec_intro-structures.ptx:175
@@ -1045,6 +1432,13 @@ msgid ""
 "\t\t\t\tSo we can think of this set of points <em>as the function itself</em>.\n"
 "\t\t\t"
 msgstr ""
+"\t\t\t\tΆρα με τη συνάρτηση συνδέεται το σύνολο σημείων <m>\\{(1,2), (2, 4), "
+"(3,6)\\}</m>.\n"
+"\t\t\t\tΣτην πραγματικότητα, αυτό το σύνολο σημείων συνδέεται ακριβώς με "
+"αυτή (και μόνο αυτή) τη συνάρτηση.\n"
+"\t\t\t\tΆρα μπορούμε να σκεφτόμαστε αυτό το σύνολο σημείων <em>ως την ίδια "
+"τη συνάρτηση</em>.\n"
+"\t\t\t"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:182
@@ -1055,6 +1449,12 @@ msgid ""
 "\t\t\tHow should we talk about ordered things? We will take this question up in the next section.\n"
 "\t\t"
 msgstr ""
+"\t\t\tΦυσικά, χρησιμοποιούμε εδώ ένα μαθηματικό αντικείμενο: ένα <term>"
+"διατεταγμένο ζεύγος</term>.\n"
+"\t\t\tΑυτό δεν είναι σύνολο (αφού τα σύνολα είναι μη διατεταγμένα).\n"
+"\t\t\tΠώς θα έπρεπε να μιλάμε για διατεταγμένα πράγματα; Θα εξετάσουμε αυτό "
+"το ερώτημα στην επόμενη ενότητα.\n"
+"\t\t"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:189
@@ -1066,6 +1466,15 @@ msgid ""
 "\t\t\tFor example, <m>f(n) = 3n + 1</m> is a closed formula, since to find <m>f(5)</m> (say) we take the input 5 and do something to it: Multiply it by 3 and then add 1.\n"
 "\t\t"
 msgstr ""
+"\t\t\tΥπάρχει ακόμη ένα σημαντικό ζήτημα σχετικά με το πώς ορίζουμε μια "
+"συνάρτηση με έναν κανόνα.\n"
+"\t\t\tΈνας <term>κλειστός τύπος</term> είναι αυτός στον οποίο κάθε έξοδος "
+"δίνεται από έναν ρητό κανόνα που βασίζεται αποκλειστικά στην είσοδό της.\n"
+"\t\t\tΑυτό είναι αυτό που οι περισσότεροι από εμάς εννοούμε ως τύπο.\n"
+"\t\t\tΓια παράδειγμα, η <m>f(n) = 3n + 1</m> είναι κλειστός τύπος, αφού για "
+"να βρούμε την <m>f(5)</m> (ας πούμε) παίρνουμε την είσοδο 5 και κάνουμε κάτι "
+"σε αυτήν: Την πολλαπλασιάζουμε επί 3 και μετά προσθέτουμε 1.\n"
+"\t\t"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:197
@@ -1077,6 +1486,19 @@ msgid ""
 "\t\t\tWhat is <m>f(5)</m> here? The only way to answer that is to find <m>f(4)</m>, which means we need to find <m>f(3)</m>, which we could do, since we have computed <m>f(2)</m>.\n"
 "\t\t"
 msgstr ""
+"\t\t\tΤι άλλο θα μπορούσε να είναι ένας τύπος; Ένας <term>αναδρομικός "
+"ορισμός</term> μιας συνάρτησης μάς λέει πώς να υπολογίσουμε την έξοδο για "
+"μια δεδομένη είσοδο <em>με βάση άλλες εξόδους της συνάρτησης</em>.\n"
+"\t\t\tΓια παράδειγμα, θα μπορούσαμε να απαιτήσουμε <m>f(n) = 2\\cdot f(n-1)</"
+"m>.\n"
+"\t\t\tΑν προσδιορίσουμε επίσης μια <term>αρχική συνθήκη</term> ότι <m>f(0) = "
+"3</m>, τότε μπορούμε να βρούμε <m>f(1) = 2\\cdot 3 = 6</m>, και έπειτα <m>f"
+"(2) = 2\\cdot 6 = 12</m>, και ούτω καθεξής.\n"
+"\t\t\tΠοια είναι η <m>f(5)</m> εδώ; Ο μόνος τρόπος να το απαντήσουμε είναι "
+"να βρούμε την <m>f(4)</m>, που σημαίνει ότι χρειάζεται να βρούμε την <m>f(3)"
+"</m>, κάτι που θα μπορούσαμε να κάνουμε, αφού έχουμε ήδη υπολογίσει την <m>f"
+"(2)</m>.\n"
+"\t\t"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:204
@@ -1087,13 +1509,20 @@ msgid ""
 "\t\t\tSpeaking of which...\n"
 "\t\t"
 msgstr ""
+"\t\t\tΟι αναδρομικοί ορισμοί συναρτήσεων μπορεί να είναι λιγότερο χρήσιμοι "
+"για την εύρεση μιας συγκεκριμένης εξόδου, αλλά είναι συχνά ευκολότερο να "
+"προσδιοριστούν για μια συγκεκριμένη εφαρμογή.\n"
+"\t\t\tΘα εξετάσουμε περισσότερο αυτό το φαινόμενο όταν μελετήσουμε τις "
+"ακολουθίες.\n"
+"\t\t\tΜιας και το αναφέραμε...\n"
+"\t\t"
 
 #. type: Content of: <appendix><section><title>
 #: source/sec_intro-structures.ptx:211 source/ch_sequences.ptx:4
 #: source/peer-instruction.ptx:59
 #, no-wrap
 msgid "Sequences"
-msgstr ""
+msgstr "Ακολουθίες"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:214
@@ -1104,12 +1533,18 @@ msgid ""
 "\t\t\tInstead, we consider <term>sequences</term>.\n"
 "\t\t"
 msgstr ""
+"\t\t\tΜερικές φορές δεν μας ενδιαφέρει μόνο μια συλλογή αριθμών, αλλά και με "
+"ποια <em>σειρά</em> εμφανίζονται αυτοί οι αριθμοί.\n"
+"\t\t\tΣε τέτοιες περιπτώσεις, δεν μπορούμε να χρησιμοποιήσουμε <em>σύνολα</"
+"em>, αφού αυτά δεν διακρίνουν τη σειρά των στοιχείων τους.\n"
+"\t\t\tΑντ' αυτού, εξετάζουμε <term>ακολουθίες</term>.\n"
+"\t\t"
 
 #. type: Content of: <section><subsection><p><idx><see>
 #: source/sec_intro-structures.ptx:222
 #, no-wrap
 msgid "sequence, finite"
-msgstr ""
+msgstr "ακολουθία, πεπερασμένη"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:223
@@ -1120,6 +1555,16 @@ msgid ""
 "\t\t\tWe might also call this an <term>ordered triple</term>, the same way that <m>(7,3)</m> is an ordered pair.  In general, we could call this an <term><m>n</m>-tuple</term> if it has <m>n</m> elements (we assume that tuples are ordered).\n"
 "    "
 msgstr ""
+"\t\t\tΘα εξετάσουμε τόσο <term>πεπερασμένες</term> όσο και <term>άπειρες</"
+"term> ακολουθίες.\n"
+"\t\t\tΜια πεπερασμένη ακολουθία μπορεί να είναι κάτι τόσο απλό όσο η <m>"
+"(1,2,3)</m>· αυτή είναι μια ακολουθία με 3 στοιχεία, σε αυτή τη συγκεκριμένη "
+"σειρά.\n"
+"\t\t\tΘα μπορούσαμε επίσης να την ονομάσουμε <term>διατεταγμένη τριάδα</term>"
+", με τον ίδιο τρόπο που η <m>(7,3)</m> είναι διατεταγμένο ζεύγος.  Γενικά, "
+"θα μπορούσαμε να την ονομάσουμε <term><m>n</m>-άδα</term> αν έχει <m>n</m> "
+"στοιχεία (υποθέτουμε ότι οι n-άδες είναι διατεταγμένες).\n"
+"    "
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:229
@@ -1129,6 +1574,12 @@ msgid ""
 "\t\t\tThat is, the sequence <m>(1,2,3)</m> is different from the sequence <m>(2,3,1)</m>, while the set <m>\\{1,2,3\\}</m> is identical to <m>\\{2,3,1\\}</m>.\n"
 "\t\t"
 msgstr ""
+"\t\t\tΗ βασική διαφορά μεταξύ της ακολουθίας <m>(1,2,3)</m> και του συνόλου "
+"<m>\\{1,2,3\\}</m> είναι ότι <q>μας νοιάζει</q> η σειρά.\n"
+"\t\t\tΔηλαδή, η ακολουθία <m>(1,2,3)</m> είναι διαφορετική από την ακολουθία "
+"<m>(2,3,1)</m>, ενώ το σύνολο <m>\\{1,2,3\\}</m> είναι πανομοιότυπο με το <m>"
+"\\{2,3,1\\}</m>.\n"
+"\t\t"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:234
@@ -1140,6 +1591,16 @@ msgid ""
 "\t\t\tThe order these multiples of 4 appear in is important, since each number in the sequence corresponds to a specific version of the question.\n"
 "\t\t"
 msgstr ""
+"\t\t\tΘα χρησιμοποιούμε συχνά ακολουθίες ως εργαλείο μέτρησης.\n"
+"\t\t\tΓια παράδειγμα, μια πολύ απλή ερώτηση μέτρησης είναι, <q>Πόσες ρόδες "
+"έχουν 100 αυτοκίνητα;</q> Αντί να απαντήσουμε μόνο σε αυτή την ερώτηση, θα "
+"μπορούσαμε να γενικεύσουμε και να ρωτήσουμε πόσες ρόδες έχουν <m>n</m> "
+"αυτοκίνητα, και να πάρουμε μια ακολουθία απαντήσεων.\n"
+"\t\t\tΑυτό δίνει την άπειρη ακολουθία <m>(4, 8, 12, \\ldots )</m>.\n"
+"\t\t\tΗ σειρά με την οποία εμφανίζονται αυτά τα πολλαπλάσια του 4 είναι "
+"σημαντική, αφού κάθε αριθμός στην ακολουθία αντιστοιχεί σε μια συγκεκριμένη "
+"εκδοχή της ερώτησης.\n"
+"\t\t"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:242
@@ -1149,6 +1610,10 @@ msgid ""
 "\t\t\tWe can refer to the <term>terms</term> simply as\n"
 "\t\t\t"
 msgstr ""
+"\t\t\tΕίναι εντάξει να σκεφτόμαστε μια ακολουθία αριθμών ως μια διατεταγμένη "
+"λίστα.\n"
+"\t\t\tΜπορούμε να αναφερόμαστε στους <term>όρους</term> απλά ως\n"
+"\t\t\t"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:247
@@ -1157,6 +1622,9 @@ msgid ""
 "\t\t\tand might refer to the entire sequence as <m>(a_n)_{n\\ge 0}</m> or <m>(a_n)_{n\\in \\N}</m>.\n"
 "\t\t"
 msgstr ""
+"\t\t\tκαι ίσως αναφερόμαστε σε ολόκληρη την ακολουθία ως <m>(a_n)_{n\\ge 0}</"
+"m> ή <m>(a_n)_{n\\in \\N}</m>.\n"
+"\t\t"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:251
@@ -1168,6 +1636,14 @@ msgid ""
 "\t\t\tWe think of the domain as the positions in the sequence, and the image of those inputs as the terms in the sequence.\n"
 "\t\t"
 msgstr ""
+"\t\t\tΑν θέλουμε να είμαστε λίγο πιο ακριβείς και πιο αφηρημένοι, μπορούμε "
+"να σκεφτόμαστε μια ακολουθία ως <em>συνάρτηση</em>.\n"
+"\t\t\tΤο πεδίο ορισμού είναι οι φυσικοί αριθμοί ή κάποιο υποσύνολο "
+"διαδοχικών φυσικών αριθμών (όπως το <m>\\{1,2,3,4\\}</m>).\n"
+"\t\t\tΤο πεδίο άφιξης είναι κάποιο σύνολο.\n"
+"\t\t\tΣκεφτόμαστε το πεδίο ορισμού ως τις θέσεις στην ακολουθία, και την "
+"εικόνα αυτών των εισόδων ως τους όρους της ακολουθίας.\n"
+"\t\t"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:259
@@ -1182,6 +1658,19 @@ msgid ""
 "\t\t\tBut we like to use subscripts.\n"
 "\t\t"
 msgstr ""
+"\t\t\tΓια παράδειγμα, θα μπορούσαμε να εξετάσουμε την ακολουθία Fibonacci <m>"
+"(f_n)_{n\\ge 1}</m>, που ξεκινά <m> 1, 1, 2, 3, 5, 8,\\ldots</m>.\n"
+"\t\t\tΠοιος είναι ο 4ος όρος της ακολουθίας; Θα λέγαμε <m>f_4 = 3</m> "
+"(υποθέτοντας ότι το πρώτο 1 είναι ο πρώτος όρος και όχι ο μηδενικός όρος).\n"
+"\t\t\tΣημειώστε ότι μπορεί να υπάρχει μόνο ένας 4ος όρος.\n"
+"\t\t\tΜπορεί να υπάρχει μόνο ένας <m>n</m>-οστός όρος για κάθε συγκεκριμένη "
+"τιμή του <m>n</m>.\n"
+"\t\t\tΆρα για κάθε είσοδο (τη θέση του όρου), υπάρχει μόνο μία έξοδος (ο "
+"όρος).\n"
+"\t\t\tΘα ήταν απόλυτα λογικό να γράψουμε <m>f(4) = 3</m>, και αυτό πράγματι "
+"μοιάζει με συνάρτηση.\n"
+"\t\t\tΑλλά μας αρέσει να χρησιμοποιούμε δείκτες.\n"
+"\t\t"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:269
@@ -1191,6 +1680,10 @@ msgid ""
 "\t\t\tWe might write something like the following:\n"
 "\t\t"
 msgstr ""
+"\t\t\tΜπορούμε επίσης να περιγράψουμε τους όρους μιας ακολουθίας "
+"χρησιμοποιώντας έναν πίνακα.\n"
+"\t\t\tΘα μπορούσαμε να γράψουμε κάτι σαν το ακόλουθο:\n"
+"\t\t"
 
 #. type: Content of: <section><subsection><tabular><row><cell>
 #: source/sec_intro-structures.ptx:282
@@ -1199,6 +1692,8 @@ msgid ""
 "\t\t\t<m>n</m>\n"
 "\t\t\t"
 msgstr ""
+"\t\t\t<m>n</m>\n"
+"\t\t\t"
 
 #. type: Content of: <section><subsection><example><solution><tabular><row><cell>
 #: source/sec_intro-structures.ptx:284 source/sec_intro-structures.ptx:294
@@ -1211,7 +1706,7 @@ msgstr ""
 #: source/exercises/intro-functions.ptx:113 source/sec_addtops-numbth.ptx:1218
 #, no-wrap
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #. type: Content of: <section><subsection><example><solution><tabular><row><cell>
 #: source/sec_intro-structures.ptx:285 source/sec_counting-non-disjoint.ptx:326
@@ -1226,7 +1721,7 @@ msgstr ""
 #: source/exercises/intro-functions.ptx:114 source/sec_addtops-numbth.ptx:1224
 #, no-wrap
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #. type: Content of: <exercises><exercise><statement><tabular><row><cell>
 #: source/sec_intro-structures.ptx:286 source/sec_intro-structures.ptx:295
@@ -1242,7 +1737,7 @@ msgstr ""
 #: source/exercises/intro-functions.ptx:109
 #, no-wrap
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #. type: Content of: <exercises><exercise><statement><tabular><row><cell>
 #: source/sec_intro-structures.ptx:287 source/sec_structures-functions.ptx:217
@@ -1254,13 +1749,13 @@ msgstr ""
 #: source/exercises/intro-functions.ptx:112
 #, no-wrap
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #. type: Content of: <section><subsection><tabular><row><cell>
 #: source/sec_intro-structures.ptx:288 source/sec_intro-structures.ptx:298
 #, no-wrap
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. type: Content of: <section><subsection><tabular><row><cell>
 #: source/sec_intro-structures.ptx:292
@@ -1269,6 +1764,8 @@ msgid ""
 "\t\t\t<m>a_n</m>\n"
 "\t\t\t"
 msgstr ""
+"\t\t\t<m>a_n</m>\n"
+"\t\t\t"
 
 #. type: Content of: <section><introduction><example><statement><p><ol><li><tabular><row><cell>
 #: source/sec_intro-structures.ptx:296 source/sec_counting-non-disjoint.ptx:327
@@ -1276,13 +1773,13 @@ msgstr ""
 #: source/sec_structures-functions.ptx:78
 #, no-wrap
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #. type: Content of: <section><subsection><tabular><row><cell>
 #: source/sec_intro-structures.ptx:297
 #, no-wrap
 msgid "10"
-msgstr ""
+msgstr "10"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:304
@@ -1291,6 +1788,10 @@ msgid ""
 "\t\t\tThis looks exactly like how you would represent a function, even though this table describes the sequence of <term>triangular numbers</term> (we will see why they are called this later).\n"
 "\t\t"
 msgstr ""
+"\t\t\tΑυτό μοιάζει ακριβώς με το πώς θα αναπαριστούσατε μια συνάρτηση, "
+"παρόλο που αυτός ο πίνακας περιγράφει την ακολουθία των <term>τριγωνικών "
+"αριθμών</term> (θα δούμε γιατί ονομάζονται έτσι αργότερα).\n"
+"\t\t"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:309
@@ -1301,6 +1802,13 @@ msgid ""
 "\t\t\tFor example,\n"
 "\t\t\t"
 msgstr ""
+"\t\t\tΑφού οι ακολουθίες είναι συναρτήσεις, μπορούμε να χρησιμοποιήσουμε "
+"οποιαδήποτε από τις τεχνικές περιγραφής συναρτήσεων για να περιγράψουμε "
+"ακολουθίες.\n"
+"\t\t\tΕιδικότερα, θα μπορούσαμε να δώσουμε έναν <term>κλειστό τύπο</term> "
+"για μια ακολουθία δίνοντας ρητά τη συνάρτηση για τον <m>n</m>-οστό όρο.\n"
+"\t\t\tΓια παράδειγμα,\n"
+"\t\t\t"
 
 #. type: Content of: <section><subsection><example><solution><p>
 #: source/sec_intro-structures.ptx:314 source/sec_logic-statements.ptx:1099
@@ -1314,6 +1822,8 @@ msgid ""
 ".\n"
 "\t\t\t"
 msgstr ""
+".\n"
+"\t\t\t"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:316
@@ -1323,6 +1833,10 @@ msgid ""
 "\t\t\tThis is especially useful for the Fibonacci sequence:\n"
 "\t\t\t"
 msgstr ""
+"\t\t\tΕναλλακτικά, θα μπορούσαμε να ορίσουμε μια ακολουθία αναδρομικά "
+"λέγοντας πώς να περάσουμε από τον έναν όρο στον επόμενο.\n"
+"\t\t\tΑυτό είναι ιδιαίτερα χρήσιμο για την ακολουθία Fibonacci:\n"
+"\t\t\t"
 
 #. type: Content of: <section><subsection><theorem><p>
 #: source/sec_intro-structures.ptx:320 source/sec_logic-statements.ptx:1089
@@ -1334,6 +1848,8 @@ msgid ""
 ".\n"
 "\t\t"
 msgstr ""
+".\n"
+"\t\t"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:324
@@ -1343,12 +1859,18 @@ msgid ""
 "\t\t\tWe will study this, and everything else sequence related in <xref po4a-id=0>.\n"
 "\t\t"
 msgstr ""
+"\t\t\tΜεγάλο μέρος της προσπάθειάς μας στην κατανόηση ακολουθιών θα "
+"αφιερωθεί στο να παίρνουμε έναν αναδρομικό ορισμό και να βρίσκουμε έναν "
+"κλειστό τύπο για την ακολουθία.\n"
+"\t\t\tΘα το μελετήσουμε αυτό, και οτιδήποτε άλλο σχετικό με ακολουθίες, στην "
+"<xref po4a-id=0>.\n"
+"\t\t"
 
 #. type: Content of: <section><title>
 #: source/sec_intro-structures.ptx:330 source/sec_structures-relations.ptx:3
 #, no-wrap
 msgid "Relations"
-msgstr ""
+msgstr "Σχέσεις"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:333
@@ -1362,6 +1884,15 @@ msgid ""
 "\t\t\tAnd there are many more (infinitely many) relations for pairs of numbers.\n"
 "\t\t"
 msgstr ""
+"\t\t\tΠώς σχετίζονται οι αριθμοί <m>2</m> και <m>6</m>; Α, ξέρω: <m>2 \\lt "
+"6</m>.\n"
+"\t\t\tΕπίσης, το <m>6</m> είναι πολλαπλάσιο του <m>2</m>.\n"
+"\t\t\tΟι δύο αριθμοί είναι επίσης και οι δύο άρτιοι.\n"
+"\t\t\tΚαι εδώ είναι ένα ακόμη γεγονός: Είναι <em>άνισοι</em>.\n"
+"\t\t\tΌλα αυτά τα τέσσερα είναι παραδείγματα <term>σχέσεων</term>: μικρότερο "
+"από, πολλαπλάσιο του, και οι δύο άρτιοι, άνισοι.\n"
+"\t\t\tΚαι υπάρχουν πολλές ακόμη (άπειρες) σχέσεις για ζεύγη αριθμών.\n"
+"\t\t"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:344
@@ -1373,6 +1904,17 @@ msgid ""
 "\t\t\tSo the relation is true of the triple <m>(3,4,5)</m>, but not of <m>(4,5,6)</m> (since <m>3^2 + 4^2 = 5^2</m>, but <m>4^2 + 5^2 \\ne 6^2</m>).\n"
 "\t\t"
 msgstr ""
+"\t\t\tΤα παραπάνω παραδείγματα είναι όλα <term>διμελείς σχέσεις</term>, αφού "
+"σχετίζουν δύο στοιχεία.\n"
+"\t\t\tΘα μπορούσατε επίσης να εξετάσετε σχέσεις μεταξύ περισσότερων από δύο "
+"στοιχείων.\n"
+"\t\t\tΓια παράδειγμα, θα μπορούσαμε να εξετάσουμε τη σχέση <q>Πυθαγόρεια "
+"τριάδα</q> σε τρεις αριθμούς, η οποία ισχύει ακριβώς όταν αυτοί είναι τα "
+"μήκη πλευρών ενός ορθογωνίου τριγώνου.\n"
+"\t\t\tΈτσι η σχέση ισχύει για την τριάδα <m>(3,4,5)</m>, αλλά όχι για την <m>"
+"(4,5,6)</m> (αφού <m>3^2 + 4^2 = 5^2</m>, αλλά <m>4^2 + 5^2 \\n"
+"e 6^2</m>).\n"
+"\t\t"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:351
@@ -1385,12 +1927,23 @@ msgid ""
 "\t\t\tEvery element of this set contains numbers for which the relation <q>less than</q> is true, and every pair of numbers for which the relation is true is a pair in the set.\n"
 "\t\t\tSo we can say that this set of pairs "
 msgstr ""
+"\t\t\tΠαρατηρήστε ότι μπορούμε να μιλάμε για ένα ζεύγος ή μια τριάδα που <em>"
+"ικανοποιεί</em> μια σχέση.\n"
+"\t\t\tΘα μπορούσαμε να πούμε ότι ένα ζεύγος <em>ανήκει</em> στη σχέση.\n"
+"\t\t\tΟ προσεκτικός και τυπικός τρόπος να ορίσουμε μια σχέση είναι ως ένα "
+"<em>σύνολο</em> διατεταγμένων ζευγών (ή τριάδων, κ.λπ.).\n"
+"\t\t\tΘεωρήστε το (άπειρο) σύνολο όλων των διατεταγμένων ζευγών <m>(a,b)</m> "
+"τέτοιων ώστε <m>a \\lt b</m>.\n"
+"\t\t\tΚάθε στοιχείο αυτού του συνόλου περιέχει αριθμούς για τους οποίους η "
+"σχέση <q>μικρότερο από</q> είναι αληθής, και κάθε ζεύγος αριθμών για το "
+"οποίο η σχέση είναι αληθής είναι ζεύγος στο σύνολο.\n"
+"\t\t\tΆρα μπορούμε να πούμε ότι αυτό το σύνολο ζευγών "
 
 #. type: Content of: <section><subsection><p><alert>
 #: source/sec_intro-structures.ptx:356
 #, no-wrap
 msgid "is"
-msgstr ""
+msgstr "είναι"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:356
@@ -1399,6 +1952,8 @@ msgid ""
 " the relation.\n"
 "\t\t"
 msgstr ""
+" η σχέση.\n"
+"\t\t"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:363
@@ -1411,6 +1966,19 @@ msgid ""
 "\t\t\tThese are just a few examples of relation properties though.\n"
 "\t\t"
 msgstr ""
+"\t\t\tΟι σχέσεις μπορεί να έχουν ορισμένες τυπικές ιδιότητες, και το να "
+"αποφασίσουμε αν μια συγκεκριμένη σχέση έχει μια δεδομένη ιδιότητα μπορεί "
+"συχνά να μας βοηθήσει να την κατανοήσουμε καλύτερα.\n"
+"\t\t\tΗ σχέση «μικρότερο από» είναι, για παράδειγμα, <term>μη ανακλαστική</"
+"term> επειδή δεν υπάρχουν στοιχεία που να είναι μικρότερα από τον εαυτό "
+"τους.\n"
+"\t\t\tΕίναι επίσης <term>αντισυμμετρική</term>, αφού δεν υπάρχουν "
+"διαφορετικοί αριθμοί <m>a</m> και <m>b</m> τέτοιοι ώστε <m>a \\lt b</m> και "
+"<m>b \\lt a</m>.\n"
+"\t\t\tΕίναι επίσης <term>μεταβατική</term>, αφού αν <m>a \\lt b</m> και <m>b "
+"\\lt c</m> τότε πρέπει να έπεται ότι <m>a \\lt c</m>.\n"
+"\t\t\tΑυτά όμως είναι μόνο λίγα παραδείγματα ιδιοτήτων σχέσεων.\n"
+"\t\t"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:374
@@ -1422,12 +1990,25 @@ msgid ""
 "\t\t\tOne of my favorites is a relation that gives us a graph.\n"
 "\t\t"
 msgstr ""
+"\t\t\tΓιατί να μας ενδιαφέρουν αυτές οι ιδιότητες; Αποδεικνύεται ότι "
+"ορισμένες ομάδες ιδιοτήτων εμφανίζονται μαζί συχνά, και για τέτοιες συλλογές "
+"ιδιοτήτων, μπορούμε να αποδείξουμε γενικά αποτελέσματα για τις σχέσεις που "
+"τις ικανοποιούν.\n"
+"\t\t\tΈτσι, αν μπορούμε να αποδείξουμε ότι μια δεδομένη σχέση είναι <term>"
+"ανακλαστική</term>, <term>συμμετρική</term>, και <term>μεταβατική</term> "
+"(ό,τι κι αν σημαίνουν αυτά), τότε ξέρουμε ότι η σχέση είναι <term>σχέση "
+"ισοδυναμίας</term>, και επομένως ξέρουμε ότι έχει κι άλλες πολλές "
+"ιδιότητες.\n"
+"\t\t\tΈνα μεγάλο μέρος των διακριτών μαθηματικών ασχολείται με τη μελέτη "
+"συγκεκριμένων τύπων σχέσεων.\n"
+"\t\t\tΈνα από τα αγαπημένα μου είναι μια σχέση που μας δίνει έναν γράφο.\n"
+"\t\t"
 
 #. type: Content of: <section><subsection><title>
 #: source/sec_intro-structures.ptx:382
 #, no-wrap
 msgid "Graphs"
-msgstr ""
+msgstr "Γράφοι"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:385
@@ -1438,12 +2019,19 @@ msgid ""
 "\t\t\tWe can picture the set and the interesting (unordered) pairs (i.e., two-element subsets) as a picture called a graph:\n"
 "\t\t"
 msgstr ""
+"\t\t\tΘεωρήστε το σύνολο <m>V = \\{1, 2, 3, 4, 5, 6\\}</m>.\n"
+"\t\t\tΠοια ζεύγη αριθμών από αυτό το σύνολο αθροίζουν στο 7; Θα μπορούσαμε "
+"να έχουμε <m>\\{1,6\\}</m> ή <m>\\{2, 5\\}</m> ή <m>\\{3,4\\}</m>.\n"
+"\t\t\tΜπορούμε να απεικονίσουμε το σύνολο και τα ενδιαφέροντα (μη "
+"διατεταγμένα) ζεύγη (δηλαδή, υποσύνολα δύο στοιχείων) ως μια εικόνα που "
+"ονομάζεται γράφος:\n"
+"\t\t"
 
 #. type: Content of: <section><subsection><image><description><p>
 #: source/sec_intro-structures.ptx:392 source/sec_intro-structures.ptx:393
 #, no-wrap
 msgid "The graph of pairs of numbers 1 to 6 that sum to 7"
-msgstr ""
+msgstr "Ο γράφος των ζευγών αριθμών από το 1 έως το 6 που αθροίζουν στο 7"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:397
@@ -1453,12 +2041,16 @@ msgid ""
 "\t\t\tThen, we would get the following picture.\n"
 "\t\t"
 msgstr ""
+"\t\t\tΑπό την άλλη πλευρά, μπορεί να θέλουμε να εξετάσουμε ζεύγη αριθμών των "
+"οποίων το άθροισμα είναι άρτιο.\n"
+"\t\t\tΤότε, θα παίρναμε την ακόλουθη εικόνα.\n"
+"\t\t"
 
 #. type: Content of: <section><subsection><image><shortdescription>
 #: source/sec_intro-structures.ptx:402
 #, no-wrap
 msgid "The graph of pairs of numbers 1 to 6 that have an even sum"
-msgstr ""
+msgstr "Ο γράφος των ζευγών αριθμών από το 1 έως το 6 που έχουν άρτιο άθροισμα"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:407
@@ -1468,6 +2060,12 @@ msgid ""
 "\t\t\tA graph is a type of relation, one that is <term>symmetric</term> (if <m>a</m> is related to <m>b</m>, then <m>b</m> is related to <m>a</m>) and <term>irreflexive</term> (no element is related to itself).\n"
 "\t\t"
 msgstr ""
+"\t\t\tΟνομάζουμε αυτές τις διακριτές δομές <term>γράφους</term>.\n"
+"\t\t\tΈνας γράφος είναι ένας τύπος σχέσης, μια σχέση που είναι <term>"
+"συμμετρική</term> (αν το <m>a</m> σχετίζεται με το <m>b</m>, τότε το <m>b</"
+"m> σχετίζεται με το <m>a</m>) και <term>μη ανακλαστική</term> (κανένα "
+"στοιχείο δεν σχετίζεται με τον εαυτό του).\n"
+"\t\t"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:414
@@ -1477,6 +2075,13 @@ msgid ""
 "\t\t\tNotice that even here, we are using the structure <em>set</em> to define the structure <em>graph</em>.\n"
 "\t\t"
 msgstr ""
+"\t\t\tΩστόσο, συνήθως σκεφτόμαστε τους γράφους ως σχέδια από τελείες και "
+"γραμμές, ή πιο ακριβώς ως ένα σύνολο <term>κορυφών</term> μαζί με ένα σύνολο "
+"<term>ακμών</term>, όπου κάθε ακμή είναι ένα υποσύνολο δύο στοιχείων των "
+"κορυφών.\n"
+"\t\t\tΠαρατηρήστε ότι ακόμη κι εδώ, χρησιμοποιούμε τη δομή <em>σύνολο</em> "
+"για να ορίσουμε τη δομή <em>γράφος</em>.\n"
+"\t\t"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:419
@@ -1488,6 +2093,20 @@ msgid ""
 "\t\t\tIs there a direct flight, or must you stop in Newark? That is, does the graph of flights have an edge between Denver and Paris or only between Denver and Newark and between Newark and Paris? When your Amazon driver delivers packages to 10 houses in your neighborhood, how does her app know in which order to deliver the packages? Graph theory!\n"
 "\t\t"
 msgstr ""
+"\t\t\tΟι γράφοι εμφανίζονται σε κάθε είδους εφαρμογές του πραγματικού "
+"κόσμου: Σε μια τάξη, κάποιοι μαθητές είναι φίλοι μεταξύ τους, οπότε θεωρήστε "
+"τους μαθητές ως κορυφές και τις φιλίες ως ακμές.\n"
+"\t\t\tΣτη γεωγραφία, κάποιες χώρες μοιράζονται σύνορα, οπότε θεωρήστε τις "
+"χώρες ως κορυφές και συνδέστε ένα ζεύγος κορυφών με μια ακμή αν οι χώρες "
+"μοιράζονται σύνορα.\n"
+"\t\t\tΊσως σχεδιάζετε ένα ταξίδι και θέλετε να πετάξετε από το Ντένβερ στο "
+"Παρίσι.\n"
+"\t\t\tΥπάρχει απευθείας πτήση, ή πρέπει να σταματήσετε στη Νεβάρκη; Δηλαδή, "
+"έχει ο γράφος των πτήσεων μια ακμή μεταξύ Ντένβερ και Παρισιού ή μόνο μεταξύ "
+"Ντένβερ και Νεβάρκης και μεταξύ Νεβάρκης και Παρισιού; Όταν ο διανομέας της "
+"Amazon παραδίδει δέματα σε 10 σπίτια στη γειτονιά σας, πώς ξέρει η εφαρμογή "
+"του με ποια σειρά να παραδώσει τα δέματα; Θεωρία γράφων!\n"
+"\t\t"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:426
@@ -1497,12 +2116,18 @@ msgid ""
 "\t\t\tWe will scratch the surface of this fascinating subject in <xref po4a-id=0>\n"
 "\t\t"
 msgstr ""
+"\t\t\tΗ μελέτη των γράφων είναι ένα αντικείμενο από μόνο του, στο οποίο "
+"πολλοί μαθηματικοί κατέχουν διδακτορικούς τίτλους και γράφουν εκατοντάδες "
+"άρθρα κάθε χρόνο.\n"
+"\t\t\tΘα ακουμπήσουμε επιφανειακά αυτό το συναρπαστικό αντικείμενο στην "
+"<xref po4a-id=0>\n"
+"\t\t"
 
 #. type: Content of: <section><subsection><title>
 #: source/sec_intro-structures.ptx:478
 #, no-wrap
 msgid "Even More Structures"
-msgstr ""
+msgstr "Ακόμη Περισσότερες Δομές"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:483
@@ -1516,6 +2141,25 @@ msgid ""
 "\t\t\tThese are examples of sets on which we define additional operations and study the algebraic structure of how the sets and operations interact.\n"
 "\t\t"
 msgstr ""
+"\t\t\tΗ λίστα μας με δομές θα μπορούσε να συνεχίζεται επ' άπειρον, αλλά θα "
+"σταματήσουμε εδώ.\n"
+"\t\t\tΘα αφιερώσουμε λίγο χρόνο στα <term>πολυσύνολα</term>, που είναι "
+"ακριβώς σαν τα σύνολα, με τη διαφορά ότι μπορούν να έχουν επαναλαμβανόμενα "
+"στοιχεία.\n"
+"\t\t\tΑφού αυτό δεν είναι μάθημα γεωμετρίας, δεν θα εξετάσουμε <term>"
+"πεπερασμένες γεωμετρίες</term>, ή <term>σχέδια (designs)</term> (που "
+"βρίσκονται κάπου ανάμεσα σε γράφους και γεωμετρίες).\n"
+"\t\t\tΟι διακριτές δομές είναι χρήσιμες στην επιστήμη υπολογιστών, αλλά δεν "
+"θα φτάσουμε στη μελέτη <term>συνδεδεμένων λιστών</term> ή <term>ερυθρόμαυρων "
+"δέντρων</term>.\n"
+"\t\t\tΑν και η αφηρημένη άλγεβρα είναι ένα συναρπαστικό αντικείμενο, δεν θα "
+"φτάσουμε στις <term>ομάδες</term> ή τους <term>δακτυλίους</term> ή τα <term>"
+"μετροειδή</term> ή τα <term>μερικώς διατεταγμένα σύνολα</term> ή τις <term>"
+"άλγεβρες Boole</term> ή....\n"
+"\t\t\tΑυτά είναι παραδείγματα συνόλων στα οποία ορίζουμε επιπλέον πράξεις "
+"και μελετάμε την αλγεβρική δομή του πώς αλληλεπιδρούν τα σύνολα και οι "
+"πράξεις.\n"
+"\t\t"
 
 #. type: Content of: <section><subsection><p>
 #: source/sec_intro-structures.ptx:492
@@ -1525,6 +2169,11 @@ msgid ""
 "\t\t\tSo what are we waiting for? Let's dive in and solve some problems.\n"
 "\t\t"
 msgstr ""
+"\t\t\tΤο νόημα είναι ότι τα διακριτά μαθηματικά είναι καταπληκτικά, και θα "
+"μπορούσατε να αφιερώσετε πολλές ζωές μελετώντας τα.\n"
+"\t\t\tΤι περιμένουμε λοιπόν; Ας βουτήξουμε και ας λύσουμε μερικά "
+"προβλήματα.\n"
+"\t\t"
 
 #. type: Content of: <section><reading-questions><exercise><statement><p>
 #: source/sec_intro-structures.ptx:501
@@ -1533,6 +2182,11 @@ msgid ""
 "          Think back to the domino problem at the beginning of this section.  We asked how many dominoes are in a double-six domino <em>set</em>.  Is this really a set, in our mathematical sense?  What discrete structure would you use to represent each domino individually?\n"
 "        "
 msgstr ""
+"          Θυμηθείτε το πρόβλημα των ντόμινο στην αρχή αυτής της ενότητας.  "
+"Ρωτήσαμε πόσα ντόμινο υπάρχουν σε ένα <em>σύνολο</em> ντόμινο διπλού-έξι.  "
+"Είναι αυτό πράγματι σύνολο, με τη μαθηματική μας έννοια;  Ποια διακριτή δομή "
+"θα χρησιμοποιούσατε για να αναπαραστήσετε κάθε ντόμινο ξεχωριστά;\n"
+"        "
 
 #. type: Content of: <section><reading-questions><exercise><statement><p>
 #: source/sec_intro-structures.ptx:511
@@ -1541,6 +2195,12 @@ msgid ""
 "          A double-zero domino set would contain only one domino (both sides showing 0).  A double-one set would contain this plus the dominoes <m>(1,0)</m> and <m>(1,1)</m>.  We can continue in this way, creating a sequence of domino sets.  Find the next three terms of the sequence.\n"
 "        "
 msgstr ""
+"          Ένα σετ ντόμινο διπλού-μηδέν θα περιείχε μόνο ένα ντόμινο (και οι "
+"δύο πλευρές δείχνουν 0).  Ένα σετ διπλού-ένα θα περιείχε αυτό, συν τα "
+"ντόμινο <m>(1,0)</m> και <m>(1,1)</m>.  Μπορούμε να συνεχίσουμε έτσι, "
+"δημιουργώντας μια ακολουθία από σετ ντόμινο.  Βρείτε τους επόμενους τρεις "
+"όρους της ακολουθίας.\n"
+"        "
 
 #. type: Content of: <section><reading-questions><exercise><statement><p>
 #: source/sec_intro-structures.ptx:515
@@ -1549,6 +2209,8 @@ msgid ""
 "            1, 3, <var po4a-id=0> , <var po4a-id=1> , <var po4a-id=2> , ...\n"
 "        "
 msgstr ""
+"            1, 3, <var po4a-id=0> , <var po4a-id=1> , <var po4a-id=2> , ...\n"
+"        "
 
 #. type: Content of: <section><reading-questions><exercise><setup><var>
 #: source/sec_intro-structures.ptx:519
@@ -1557,19 +2219,21 @@ msgid ""
 "        <var>\n"
 "          "
 msgstr ""
+"        <var>\n"
+"          "
 
 #. type: Content of: <section><reading-questions><exercise><setup><var><condition><feedback>
 #: source/sec_intro-structures.ptx:521 source/sec_intro-structures.ptx:529
 #: source/sec_intro-structures.ptx:537
 #, no-wrap
 msgid "Correct"
-msgstr ""
+msgstr "Σωστά"
 
 #. type: Content of: <section><reading-questions><exercise><setup><var><condition><feedback>
 #: source/sec_intro-structures.ptx:524
 #, no-wrap
 msgid "Try listing all the dominoes in the double-two set."
-msgstr ""
+msgstr "Δοκιμάστε να απαριθμήσετε όλα τα ντόμινο στο σετ διπλού-δύο."
 
 #. type: Content of: <section><reading-questions><exercise><setup><var>
 #: source/sec_intro-structures.ptx:526 source/sec_intro-structures.ptx:534
@@ -1579,12 +2243,15 @@ msgid ""
 "        <var>\n"
 "          "
 msgstr ""
+"        </var>\n"
+"        <var>\n"
+"          "
 
 #. type: Content of: <section><reading-questions><exercise><setup><var><condition><feedback>
 #: source/sec_intro-structures.ptx:532 source/sec_intro-structures.ptx:540
 #, no-wrap
 msgid "Try again"
-msgstr ""
+msgstr "Δοκιμάστε ξανά"
 
 #. type: Content of: <section><reading-questions><exercise><setup>
 #: source/sec_intro-structures.ptx:542
@@ -1593,6 +2260,8 @@ msgid ""
 "        </var>\n"
 "      "
 msgstr ""
+"        </var>\n"
+"      "
 
 #. type: Content of: <section><reading-questions><exercise><statement><p>
 #: source/sec_intro-structures.ptx:549 source/sec_gt-trees.ptx:718
@@ -1602,6 +2271,10 @@ msgid ""
 "          What questions do you have after reading this section? Write at least one question about the content of this section that you are curious about.\n"
 "        "
 msgstr ""
+"          Τι ερωτήσεις έχετε μετά την ανάγνωση αυτής της ενότητας; Γράψτε "
+"τουλάχιστον μία ερώτηση σχετικά με το περιεχόμενο αυτής της ενότητας που σας "
+"κινεί την περιέργεια.\n"
+"        "
 
 #. type: Content of: <chapter><title>
 #: source/ch_logic.ptx:4
