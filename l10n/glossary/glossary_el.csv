@@ -1,0 +1,78 @@
+source,target
+graph,γράφος
+directed graph,κατευθυνόμενος γράφος
+undirected graph,μη κατευθυνόμενος γράφος
+multigraph,πολυγράφος
+simple graph,απλός γράφος
+weighted graph,σταθμισμένος γράφος
+bipartite graph,διμερής γράφος
+planar graph,επίπεδος γράφος
+complete graph,πλήρης γράφος
+subgraph,υπογράφος
+vertex,κορυφή
+vertices,κορυφές
+edge,ακμή
+degree,βαθμός
+adjacent,γειτονικός
+incident,προσπίπτων
+walk,περίπατος
+path,μονοπάτι
+cycle,κύκλος
+tree,δέντρο
+spanning tree,επικαλύπτον δέντρο
+forest,δάσος
+connected,συνεκτικός
+connected component,συνεκτική συνιστώσα
+matching,ταίριασμα
+coloring,χρωματισμός
+chromatic number,χρωματικός αριθμός
+isomorphic,ισόμορφος
+handshake lemma,λήμμα των χειραψιών
+set,σύνολο
+subset,υποσύνολο
+element,στοιχείο
+union,ένωση
+intersection,τομή
+complement,συμπλήρωμα
+power set,δυναμοσύνολο
+function,συνάρτηση
+domain,πεδίο ορισμού
+codomain,πεδίο τιμών
+range,σύνολο τιμών
+injective,ενριπτική
+surjective,επιρριπτική
+bijective,αμφιμονοσήμαντη
+inverse function,αντίστροφη συνάρτηση
+relation,σχέση
+equivalence relation,σχέση ισοδυναμίας
+partial order,μερική διάταξη
+reflexive,ανακλαστική
+symmetric,συμμετρική
+transitive,μεταβατική
+statement,πρόταση
+proposition,πρόταση
+theorem,θεώρημα
+lemma,λήμμα
+corollary,πόρισμα
+definition,ορισμός
+axiom,αξίωμα
+proof,απόδειξη
+proof by induction,απόδειξη με επαγωγή
+mathematical induction,μαθηματική επαγωγή
+strong induction,ισχυρή επαγωγή
+contrapositive,αντιθετοαντιστροφή
+converse,αντίστροφη πρόταση
+counterexample,αντιπαράδειγμα
+quantifier,ποσοδείκτης
+permutation,μετάθεση
+combination,συνδυασμός
+factorial,παραγοντικό
+binomial coefficient,διωνυμικός συντελεστής
+pigeonhole principle,αρχή του περιστερώνα
+inclusion-exclusion,αρχή εγκλεισμού-αποκλεισμού
+probability,πιθανότητα
+sequence,ακολουθία
+series,σειρά
+recurrence relation,αναδρομική σχέση
+generating function,γεννήτρια συνάρτηση
+closed form,κλειστός τύπος

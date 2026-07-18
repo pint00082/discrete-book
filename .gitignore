@@ -46,3 +46,6 @@ published/
 *.code-workspace
 
 .cache/
+
+# Weblate local secrets (contains generated admin password) - never commit
+weblate/environment
